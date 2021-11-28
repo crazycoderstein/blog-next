@@ -9,7 +9,7 @@
     "generate": "node_modules/.bin/nuxt generate",
     "start": "node_modules/.bin/nuxt start",
     "lint": "eslint --ext .ts,.js,.vue .",
-    "lint:watch": "nodemon --exec \"npx eslint --ext .ts,.js,.vue . || true\"",
+    "lint:watch": "nodemon --exec \"eslint --ext .ts,.js,.vue . || true\"",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Jon Richards",

@@ -1,6 +1,15 @@
 <template>
   <div class="bg-gray-800">
-    <h1>Hello World!</h1>
-    <p>This is just a test template.</p>
+    <Header />
   </div>
 </template>
+
+<script>
+import Header from '../components/header.vue'
+
+export default {
+  components: {
+    Header
+  }
+}
+</script>

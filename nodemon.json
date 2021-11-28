@@ -1,0 +1,4 @@
+{
+  "watch": ["components", "pages"],
+  "ext": "js, ts, html, css, scss, png, gif, jpg, webp, wasm, json, vue"
+}
