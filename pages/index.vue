@@ -1,15 +1,15 @@
 <template>
-  <div class="bg-gray-800">
-    <Header />
+  <div class="bg-gray-800 p-4">
+    <p class="text-gray-50">
+      TEST TEST TEST
+    </P>
   </div>
 </template>
 
 <script>
-import Header from '../components/header.vue'
-
 export default {
-  components: {
-    Header
+  layout () {
+    return 'default'
   }
 }
 </script>
