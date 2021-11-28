@@ -9,6 +9,7 @@
     "generate": "node_modules/.bin/nuxt generate",
     "start": "node_modules/.bin/nuxt start",
     "lint": "eslint --ext .ts,.js,.vue .",
+    "lint:watch": "nodemon --exec \"npx eslint --ext .ts,.js,.vue . || true\"",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Jon Richards",
@@ -17,6 +18,8 @@
     "@nuxt/types": "^2.15.8",
     "@nuxt/typescript-build": "^2.1.0",
     "@nuxtjs/eslint-config-typescript": "^7.0.2",
+    "@nuxtjs/tailwindcss": "^4.2.1",
+    "nodemon": "^2.0.15",
     "nuxt": "2.15.8"
   }
 }
