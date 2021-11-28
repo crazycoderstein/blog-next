@@ -4,8 +4,19 @@
   "description": "A simple blog in Nuxt.",
   "main": "index.js",
   "scripts": {
+    "dev": "nuxt",
+    "build": "node_modules/.bin/nuxt build",
+    "generate": "node_modules/.bin/nuxt generate",
+    "start": "node_modules/.bin/nuxt start",
+    "lint": "eslint --ext .ts,.js,.vue .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Jon Richards",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@nuxt/types": "^2.15.8",
+    "@nuxt/typescript-build": "^2.1.0",
+    "@nuxtjs/eslint-config-typescript": "^7.0.2",
+    "nuxt": "2.15.8"
+  }
 }
