@@ -1,13 +1,16 @@
 <template>
-  <div class="bg-gray-800 p-4">
-    <p class="text-gray-50">
-      TEST TEST TEST
-    </P>
+  <div class="bg-graphite-800 p-4 text-gray-50 text-xl">
+    <Lorem />
   </div>
 </template>
 
 <script>
+import Lorem from '../components/lorem.vue'
+
 export default {
+  components: {
+    Lorem
+  },
   layout () {
     return 'default'
   }
