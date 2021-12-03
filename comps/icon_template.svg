@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 135.46667 135.46667"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="icon_template.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="1.414741"
+     inkscape:cx="244.92116"
+     inkscape:cy="278.14279"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     guidecolor="#ff0000"
+     guideopacity="0.76078431"
+     guidehicolor="#ff0000"
+     guidehiopacity="1"
+     inkscape:lockguides="true">
+    <sodipodi:guide
+       position="8.4666669,84.666669"
+       orientation="1,0"
+       id="guide32"
+       inkscape:locked="true" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid34"
+       color="#7878c6"
+       opacity="0.72941176"
+       empcolor="#548cff"
+       empopacity="0.52156863"
+       empspacing="16" />
+    <sodipodi:guide
+       position="71.966668,127"
+       orientation="0,-1"
+       id="guide208"
+       inkscape:locked="true" />
+    <sodipodi:guide
+       position="67.733335,8.4666669"
+       orientation="0,-1"
+       id="guide210"
+       inkscape:locked="true" />
+    <sodipodi:guide
+       position="127,42.333334"
+       orientation="1,0"
+       id="guide212"
+       inkscape:locked="true" />
+    <sodipodi:guide
+       position="67.733335,88.900002"
+       orientation="1,0"
+       id="guide268"
+       inkscape:locked="true" />
+    <sodipodi:guide
+       position="80.433335,67.733335"
+       orientation="0,-1"
+       id="guide270"
+       inkscape:locked="true" />
+    <sodipodi:guide
+       position="97.366669,80.433335"
+       orientation="1,0"
+       id="guide1811" />
+    <sodipodi:guide
+       position="93.133336,97.366669"
+       orientation="0,-1"
+       id="guide1813" />
+    <sodipodi:guide
+       position="118.53334,38.100001"
+       orientation="0,-1"
+       id="guide1815" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="CurveIn"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="CurveIn"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.6)"
+         style="fill-rule:evenodd;stroke:context-stroke;stroke-width:1.0pt;fill:none"
+         d="M 4.6254930,-5.0456926 C 1.8654930,-5.0456926 -0.37450702,-2.8056926 -0.37450702,-0.045692580 C -0.37450702,2.7143074 1.8654930,4.9543074 4.6254930,4.9543074"
+         id="path1719" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1535" />
+    </marker>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="base" />
+  <g
+     inkscape:label="arrow_left"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <path
+       style="color:#000000;fill:#000000;fill-rule:evenodd;stroke:#ffffff;stroke-width:4.23333;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 10.583464,67.601562 v 0.263672 H 122.76667 v 0.265495 z"
+       id="path439"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:3.96875;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 94.720836,38.100001 124.35417,67.733335 94.720836,97.366669"
+       id="path2627"
+       sodipodi:nodetypes="ccc" />
+  </g>
+</svg>
