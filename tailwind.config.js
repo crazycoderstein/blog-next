@@ -4,7 +4,9 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        graphite: {
+        black: '#000',
+        white: '#fff',
+        grey: {
           50: '#aaa',
           100: '#999',
           200: '#888',
@@ -16,6 +18,9 @@ module.exports = {
           800: '#222',
           900: '#111'
         }
+      },
+      fontFamily: {
+        playfair: ['Playfair Display', 'Georgia', 'serif']
       }
     }
   },
